@@ -13,7 +13,7 @@ You will need `imagemagick` installed in order to do this lab. Instructions for 
 
 ```sh
 $ git clone <repo url>
-$ cd lab-1-<your_github_username>
+$ cd lab-2-<your_github_username>
 
 $ bundle
 ```
